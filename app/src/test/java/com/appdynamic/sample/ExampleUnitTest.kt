@@ -1,4 +1,4 @@
-package com.appdynamic.myapplication
+package com.appdynamic.sample
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.appdynamic.myapplication.ui.main
+package com.mvvp.jetpack.coroutines.room.sample.ui.main
 
 import androidx.lifecycle.ViewModel
 
