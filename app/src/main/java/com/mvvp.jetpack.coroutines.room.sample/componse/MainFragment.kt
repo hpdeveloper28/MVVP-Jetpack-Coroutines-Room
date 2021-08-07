@@ -1,4 +1,4 @@
-package com.mvvp.jetpack.coroutines.room.sample.ui.main
+package com.mvvp.jetpack.coroutines.room.sample.ui.componse
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle

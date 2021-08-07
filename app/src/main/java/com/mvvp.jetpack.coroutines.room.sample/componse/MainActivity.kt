@@ -1,9 +1,9 @@
-package com.mvvp.jetpack.coroutines.room.sample
+package com.mvvp.jetpack.coroutines.room.sample.componse
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.appdynamic.sample.R
-import com.mvvp.jetpack.coroutines.room.sample.ui.main.MainFragment
+import com.mvvp.jetpack.coroutines.room.sample.ui.componse.MainFragment
 
 class MainActivity : AppCompatActivity() {
 

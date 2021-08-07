@@ -4,4 +4,4 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.mvvp.jetpack.coroutines.room.sample.MainActivity" />
+    tools:context="com.mvvp.jetpack.coroutines.room.sample.componse.MainActivity" />
